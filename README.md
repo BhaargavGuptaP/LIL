@@ -1,11 +1,8 @@
-# Web3Auth Starter Kit - ReactJs
+# React + Vite
 
-This starter kit has been created and crafted to provide an initial grasp and configuration for a passwordless authentication system using Web3Auth.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Starter kit code is organised by branches name:
+Currently, two official plugins are available:
 
-- **Main - Web3Auth Starter Kit**
-  ![Starter Kits For Web3](web3Auth.png)
-
-**About Me:**
-**Tahir Ahmad**, BlockChain Lead at OneRare and having aim to onboard people to Web3.
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
